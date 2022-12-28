@@ -1,0 +1,21 @@
+.loginpage img{
+    width: 1365px;
+    height: 600px;
+    object-position: center;
+    object-fit: cover;
+}
+
+.logincontent h2{
+    left:50%;
+    position: absolute;
+    top: 20%;
+    transform: translate(-50%,-50%);
+}
+
+.logincontent .jumbotron
+{
+        position: absolute;
+        top:40%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+}
